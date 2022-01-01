@@ -1,2 +1,6 @@
 two
+<<<<<<< HEAD
 asd
+=======
+two
+>>>>>>> main
